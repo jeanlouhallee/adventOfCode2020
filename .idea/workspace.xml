@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a6fe767-8cf4-4246-bd87-e79d54d5a989" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/01/challenge.go" beforeDir="false" afterPath="$PROJECT_DIR$/01/challenge.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +37,30 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build adventOfCode2020/01">
-    <configuration name="go build adventOfCode2020" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="adventOfCode2020" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="adventOfCode2020" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build challenge.go (1)">
     <configuration name="go build adventOfCode2020/01" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="adventOfCode2020" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
       <package value="adventOfCode2020/01" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build adventOfCode2020/02" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode2020" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/02/challenge.go" />
+      <package value="adventOfCode2020/02" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build challenge.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode2020" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/02/challenge.go" />
+      <package value="adventOfCode2020" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -74,10 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build challenge.go (1)" />
+        <item itemvalue="Go Build.go build adventOfCode2020/02" />
         <item itemvalue="Go Build.go build adventOfCode2020/01" />
         <item itemvalue="Go Build.go build challenge.go" />
         <item itemvalue="Go Build.go build hello.go" />
-        <item itemvalue="Go Build.go build adventOfCode2020" />
       </list>
     </recent_temporary>
   </component>
